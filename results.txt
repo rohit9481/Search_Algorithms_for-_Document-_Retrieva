@@ -1,0 +1,31 @@
+Title: Travel_Guide
+File: travel_guide.txt
+Score: 2.4417
+Preview:
+Title: Exploring Kyoto, Japan
+
+Kyoto is a city in Japan known for its classical Buddhist temples, gardens, imperial palaces, and traditional wooden houses. Popular attractions include Fushimi Inari Shrine, Arashiyama Bamboo Grove, and the historic district of Gion. Kyoto offers a rich cultural exp
+
+Title: Health_Article
+File: health_article.txt
+Score: 0.0
+Preview:
+Title: Benefits of Regular Exercise
+
+Exercise has numerous health benefits. It improves cardiovascular health, boosts mood and mental health, helps control weight, and strengthens muscles and bones. Activities like running, swimming, cycling, and even walking can contribute to a healthier lifestyl
+
+Title: Historical_Document
+File: historical_document.txt
+Score: 0.0
+Preview:
+Title: The Declaration of Independence
+
+The Declaration of Independence was adopted on July 4, 1776. It announced that the thirteen American colonies were no longer subject to the British monarch and were now united, free, and independent states. The document was authored by Thomas Jefferson and s
+
+Title: Science_Article
+File: science_article.txt
+Score: 0.0
+Preview:
+Title: The Solar System
+
+The Solar System consists of the Sun and everything that orbits it, including planets, moons, comets, and asteroids. The eight planets are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. The system also contains many dwarf planets such as Pluto. Gravitat

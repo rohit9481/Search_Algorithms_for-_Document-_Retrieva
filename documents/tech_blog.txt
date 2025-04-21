@@ -1,0 +1,3 @@
+Title: Introduction to Machine Learning
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data and improve over time without being explicitly programmed. It includes algorithms such as decision trees, neural networks, and support vector machines. Applications include image recognition, natural language processing, and predictive analytics.
